@@ -1,3 +1,6 @@
+//Utilizando código PHP, escreva um algoritmo que calcule a média de notas de uma turma e no final apresente o resultado. (< 5 - Reprovado, < 7 - Exame, >= 7 - Aprovado)
+
+
 <?php
 
 // Array com as notas da turma
